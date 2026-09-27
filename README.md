@@ -1,0 +1,2 @@
+# premium-sine-bar-001-sine-bar-setup-angle-grind-c
+Stop wasting time on trial-and-error angle setups—your sine bar should be a precision tool, not a math problem you solve every time.  The Sine Bar Setup &amp; Angle Grind Craft Workshop turns your Notion workspace into a digital workshop assistant. It eliminates manual calculations, stores every setup for reuse, and guides you step-by-step from workpie
